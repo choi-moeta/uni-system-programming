@@ -1,0 +1,1 @@
+char* convertText(char* text);
